@@ -44,7 +44,9 @@ intron1start = 54<br>
 intron1end = 84<br>
 intron2start = 169<br>
 intron2end = 248<br>
-
+### OR <br>
+#### 2nd Possible Output:<br>
+54 84 166 245
 
 ## Contributions
 Contributions to the project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
